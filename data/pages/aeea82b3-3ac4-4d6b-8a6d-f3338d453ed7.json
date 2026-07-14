@@ -1,0 +1,75 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[Theme Title w/ contributor's names]"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[group description of theme]"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "a28efd37-5435-4736-a9b2-b9fc52f84f3c",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Theme Title",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "theme-title",
+  "created_at": "2026-07-14T20:10:46.817Z",
+  "created_by": "marissabjones",
+  "updated_at": "2026-07-14T20:10:46.817Z",
+  "updated_by": "marissabjones"
+}
