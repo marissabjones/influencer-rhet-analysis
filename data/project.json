@@ -1,1 +1,239 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"marissabjones","avatar_url":"https://avatars.githubusercontent.com/u/305021373?v=4","admin":true}],"project":{"github_org":"marissabjones","is_private":false,"title":"Influencer Rhetorical Analysis","description":"...","language":"en","slug":"influencer-rhet-analysis","creator":"marissabjones","authors":"RHE 309J: Rhetoric of Influencers","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[],"tags":[]},"created_at":"2026-07-14T17:48:10.981Z","updated_at":"2026-07-14T19:27:14.410Z","generate_pages_site":true},"annotations":{"146e1ff1-b5ff-43ba-8e06-fecd148f35af":{"annotations":[],"set":"Default","event_id":"07df900f-1935-421d-a58c-e2fc6a4425b9","source_id":"611dee03-502b-473c-a93c-fa9fbb845d93"},"8a2a4fab-96f4-4105-af17-03c4f125efee":{"annotations":[],"set":"Default","event_id":"51814101-e00c-40cb-8ba0-209f4c57029f","source_id":"978c6e5a-aad3-4d68-930f-a83c1dacdb8d"},"a7b6b6bc-ccf0-4283-9e46-6fb092f63ae8":{"annotations":[],"set":"Default","event_id":"51814101-e00c-40cb-8ba0-209f4c57029f","source_id":"65bd0be1-94f2-4e5c-938d-297f147588b1"},"e5065fc8-c967-4f43-a7df-748bd010e4f7":{"annotations":[],"set":"Default","event_id":"07df900f-1935-421d-a58c-e2fc6a4425b9","source_id":"81443375-5f53-4ea9-a3b3-1a7ee84729f1"},"f81ed4e7-72d4-4220-badd-d4889e604a5f":{"annotations":[],"set":"Default","event_id":"07df900f-1935-421d-a58c-e2fc6a4425b9","source_id":"74a41f7d-ba48-4ab6-afbc-a6925b299f5b"}},"events":{"07df900f-1935-421d-a58c-e2fc6a4425b9":{"audiovisual_files":{"74a41f7d-ba48-4ab6-afbc-a6925b299f5b":{"label":"","is_offline":false,"file_type":"Audio","file_url":"","duration":0,"caption_set":[],"set_sort":[]},"81443375-5f53-4ea9-a3b3-1a7ee84729f1":{"label":"","is_offline":false,"file_type":"Audio","file_url":"","duration":0,"caption_set":[],"set_sort":[]},"611dee03-502b-473c-a93c-fa9fbb845d93":{"label":"","is_offline":false,"file_type":"Audio","file_url":"","duration":0,"caption_set":[],"set_sort":[]}},"auto_generate_web_page":true,"description":[{"type":"paragraph","children":[{"text":""}]}],"citation":"","label":"...","av_file_order":["74a41f7d-ba48-4ab6-afbc-a6925b299f5b","81443375-5f53-4ea9-a3b3-1a7ee84729f1","611dee03-502b-473c-a93c-fa9fbb845d93"],"created_at":"2026-07-14T18:32:01.506Z","created_by":"marissabjones","updated_at":"2026-07-14T18:32:01.506Z","updated_by":"marissabjones"},"51814101-e00c-40cb-8ba0-209f4c57029f":{"audiovisual_files":{"978c6e5a-aad3-4d68-930f-a83c1dacdb8d":{"label":"GubbaHomestead","is_offline":false,"file_type":"Video","file_url":"https://www.instagram.com/reel/DNqy0oXy8j1/?igsh=QkFHN2Z4djl3cA%3D%3D&epik=dj0yJnU9VHFNMWhyQVhlSUJpdlR6dGZuR3c3N011c3N4MnJZZlAmcD0wJm49ZWhBTUhQdFRObThkUjlvZ0FYSlR3ZyZ0PUFBQUFBR3BXZHI4","duration":0,"caption_set":[],"set_sort":[]},"65bd0be1-94f2-4e5c-938d-297f147588b1":{"label":"Gretchy","is_offline":false,"file_url":"","duration":0,"caption_set":[],"set_sort":[],"file_type":"Audio"}},"auto_generate_web_page":true,"description":[{"type":"paragraph","children":[{"text":"GubbaHomestead is a creator..."}]}],"citation":"By Marissa Jones","label":"Homestead Disinformation","av_file_order":["978c6e5a-aad3-4d68-930f-a83c1dacdb8d","65bd0be1-94f2-4e5c-938d-297f147588b1"],"created_at":"2026-07-14T17:51:12.423Z","created_by":"marissabjones","updated_at":"2026-07-14T17:55:14.002Z","updated_by":"marissabjones"}},"eventOrder":["07df900f-1935-421d-a58c-e2fc6a4425b9","51814101-e00c-40cb-8ba0-209f4c57029f"],"pages":{"2b722841-d92a-4ca1-9a31-9efbffdbfad0":{"content":[],"created_at":"2026-07-14T18:32:01.764Z","created_by":"marissabjones","title":"...","slug":"","updated_at":"2026-07-14T18:32:01.764Z","updated_by":"marissabjones","autogenerate":{"enabled":true,"type":"event","type_id":"07df900f-1935-421d-a58c-e2fc6a4425b9"}},"a93635ee-c01f-43b2-96f4-3d850d74894d":{"content":[],"created_at":"2026-07-14T17:48:11.004Z","created_by":"marissabjones","title":"Influencer Rhetorical Analysis","updated_at":"2026-07-14T17:48:11.004Z","updated_by":"marissabjones","autogenerate":{"enabled":true,"type":"home"}},"be26354c-df8b-4552-a5f0-a11f6cddf119":{"content":[],"created_at":"2026-07-14T17:51:12.639Z","created_by":"marissabjones","title":"Homestead Disinformation","slug":"homestead-disinformation","updated_at":"2026-07-14T17:51:12.639Z","updated_by":"marissabjones","autogenerate":{"enabled":true,"type":"event","type_id":"51814101-e00c-40cb-8ba0-209f4c57029f"}},"cc0d5602-bd9d-482b-858e-7f82135f0860":{"content":[{"type":"paragraph","children":[{"text":"..."}]}],"title":"Citations","autogenerate":{"enabled":false,"type":"custom"},"slug":"citations","created_at":"2026-07-14T17:56:09.684Z","created_by":"marissabjones","updated_at":"2026-07-14T17:56:33.874Z","updated_by":"marissabjones"}},"pageOrder":["a93635ee-c01f-43b2-96f4-3d850d74894d","be26354c-df8b-4552-a5f0-a11f6cddf119","cc0d5602-bd9d-482b-858e-7f82135f0860","2b722841-d92a-4ca1-9a31-9efbffdbfad0"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "marissabjones",
+      "avatar_url": "https://avatars.githubusercontent.com/u/305021373?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "marissabjones",
+    "is_private": false,
+    "title": "Influencer Rhetorical Analysis",
+    "description": "...",
+    "language": "en",
+    "slug": "influencer-rhet-analysis",
+    "creator": "marissabjones",
+    "authors": "RHE 309J: Rhetoric of Influencers",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-07-14T17:48:10.981Z",
+    "updated_at": "2026-07-14T19:29:52.471Z",
+    "generate_pages_site": true
+  },
+  "annotations": {
+    "146e1ff1-b5ff-43ba-8e06-fecd148f35af": {
+      "annotations": [],
+      "set": "Default",
+      "event_id": "07df900f-1935-421d-a58c-e2fc6a4425b9",
+      "source_id": "611dee03-502b-473c-a93c-fa9fbb845d93"
+    },
+    "8a2a4fab-96f4-4105-af17-03c4f125efee": {
+      "annotations": [],
+      "set": "Default",
+      "event_id": "51814101-e00c-40cb-8ba0-209f4c57029f",
+      "source_id": "978c6e5a-aad3-4d68-930f-a83c1dacdb8d"
+    },
+    "a7b6b6bc-ccf0-4283-9e46-6fb092f63ae8": {
+      "annotations": [],
+      "set": "Default",
+      "event_id": "51814101-e00c-40cb-8ba0-209f4c57029f",
+      "source_id": "65bd0be1-94f2-4e5c-938d-297f147588b1"
+    },
+    "e5065fc8-c967-4f43-a7df-748bd010e4f7": {
+      "annotations": [],
+      "set": "Default",
+      "event_id": "07df900f-1935-421d-a58c-e2fc6a4425b9",
+      "source_id": "81443375-5f53-4ea9-a3b3-1a7ee84729f1"
+    },
+    "f81ed4e7-72d4-4220-badd-d4889e604a5f": {
+      "annotations": [],
+      "set": "Default",
+      "event_id": "07df900f-1935-421d-a58c-e2fc6a4425b9",
+      "source_id": "74a41f7d-ba48-4ab6-afbc-a6925b299f5b"
+    }
+  },
+  "events": {
+    "07df900f-1935-421d-a58c-e2fc6a4425b9": {
+      "audiovisual_files": {
+        "74a41f7d-ba48-4ab6-afbc-a6925b299f5b": {
+          "label": "",
+          "is_offline": false,
+          "file_type": "Audio",
+          "file_url": "",
+          "duration": 0,
+          "caption_set": [],
+          "set_sort": []
+        },
+        "81443375-5f53-4ea9-a3b3-1a7ee84729f1": {
+          "label": "",
+          "is_offline": false,
+          "file_type": "Audio",
+          "file_url": "",
+          "duration": 0,
+          "caption_set": [],
+          "set_sort": []
+        },
+        "611dee03-502b-473c-a93c-fa9fbb845d93": {
+          "label": "",
+          "is_offline": false,
+          "file_type": "Audio",
+          "file_url": "",
+          "duration": 0,
+          "caption_set": [],
+          "set_sort": []
+        }
+      },
+      "auto_generate_web_page": true,
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "citation": "",
+      "label": "...",
+      "av_file_order": [
+        "74a41f7d-ba48-4ab6-afbc-a6925b299f5b",
+        "81443375-5f53-4ea9-a3b3-1a7ee84729f1",
+        "611dee03-502b-473c-a93c-fa9fbb845d93"
+      ],
+      "created_at": "2026-07-14T18:32:01.506Z",
+      "created_by": "marissabjones",
+      "updated_at": "2026-07-14T18:32:01.506Z",
+      "updated_by": "marissabjones"
+    },
+    "51814101-e00c-40cb-8ba0-209f4c57029f": {
+      "audiovisual_files": {
+        "978c6e5a-aad3-4d68-930f-a83c1dacdb8d": {
+          "label": "GubbaHomestead",
+          "is_offline": false,
+          "file_type": "Video",
+          "file_url": "https://www.instagram.com/reel/DNqy0oXy8j1/?igsh=QkFHN2Z4djl3cA%3D%3D&epik=dj0yJnU9VHFNMWhyQVhlSUJpdlR6dGZuR3c3N011c3N4MnJZZlAmcD0wJm49ZWhBTUhQdFRObThkUjlvZ0FYSlR3ZyZ0PUFBQUFBR3BXZHI4",
+          "duration": 0,
+          "caption_set": [],
+          "set_sort": []
+        },
+        "65bd0be1-94f2-4e5c-938d-297f147588b1": {
+          "label": "Gretchy",
+          "is_offline": false,
+          "file_url": "",
+          "duration": 0,
+          "caption_set": [],
+          "set_sort": [],
+          "file_type": "Audio"
+        }
+      },
+      "auto_generate_web_page": true,
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "GubbaHomestead is a creator..."
+            }
+          ]
+        }
+      ],
+      "citation": "By Marissa Jones",
+      "label": "Homestead Disinformation",
+      "av_file_order": [
+        "978c6e5a-aad3-4d68-930f-a83c1dacdb8d",
+        "65bd0be1-94f2-4e5c-938d-297f147588b1"
+      ],
+      "created_at": "2026-07-14T17:51:12.423Z",
+      "created_by": "marissabjones",
+      "updated_at": "2026-07-14T17:55:14.002Z",
+      "updated_by": "marissabjones"
+    }
+  },
+  "eventOrder": [
+    "07df900f-1935-421d-a58c-e2fc6a4425b9",
+    "51814101-e00c-40cb-8ba0-209f4c57029f"
+  ],
+  "pages": {
+    "2b722841-d92a-4ca1-9a31-9efbffdbfad0": {
+      "content": [],
+      "created_at": "2026-07-14T18:32:01.764Z",
+      "created_by": "marissabjones",
+      "title": "...",
+      "slug": "",
+      "updated_at": "2026-07-14T18:32:01.764Z",
+      "updated_by": "marissabjones",
+      "autogenerate": {
+        "enabled": true,
+        "type": "event",
+        "type_id": "07df900f-1935-421d-a58c-e2fc6a4425b9"
+      }
+    },
+    "a93635ee-c01f-43b2-96f4-3d850d74894d": {
+      "content": [],
+      "created_at": "2026-07-14T17:48:11.004Z",
+      "created_by": "marissabjones",
+      "title": "Influencer Rhetorical Analysis",
+      "updated_at": "2026-07-14T17:48:11.004Z",
+      "updated_by": "marissabjones",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    },
+    "be26354c-df8b-4552-a5f0-a11f6cddf119": {
+      "content": [],
+      "created_at": "2026-07-14T17:51:12.639Z",
+      "created_by": "marissabjones",
+      "title": "Homestead Disinformation",
+      "slug": "homestead-disinformation",
+      "updated_at": "2026-07-14T17:51:12.639Z",
+      "updated_by": "marissabjones",
+      "autogenerate": {
+        "enabled": true,
+        "type": "event",
+        "type_id": "51814101-e00c-40cb-8ba0-209f4c57029f"
+      }
+    },
+    "cc0d5602-bd9d-482b-858e-7f82135f0860": {
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "..."
+            }
+          ]
+        }
+      ],
+      "title": "Citations",
+      "autogenerate": {
+        "enabled": false,
+        "type": "custom"
+      },
+      "slug": "citations",
+      "created_at": "2026-07-14T17:56:09.684Z",
+      "created_by": "marissabjones",
+      "updated_at": "2026-07-14T17:56:33.874Z",
+      "updated_by": "marissabjones"
+    }
+  },
+  "pageOrder": [
+    "a93635ee-c01f-43b2-96f4-3d850d74894d",
+    "be26354c-df8b-4552-a5f0-a11f6cddf119",
+    "cc0d5602-bd9d-482b-858e-7f82135f0860",
+    "2b722841-d92a-4ca1-9a31-9efbffdbfad0"
+  ]
+}
