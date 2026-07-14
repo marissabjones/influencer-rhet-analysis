@@ -60,6 +60,27 @@
           "text": ""
         }
       ]
+    },
+    {
+      "uuid": "1b00449d-82a5-4b0a-82cb-698329b73568",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Theme Title",
@@ -70,6 +91,6 @@
   "slug": "theme-title",
   "created_at": "2026-07-14T20:10:46.817Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-07-14T20:10:46.817Z",
+  "updated_at": "2026-07-14T20:18:53.206Z",
   "updated_by": "marissabjones"
 }
