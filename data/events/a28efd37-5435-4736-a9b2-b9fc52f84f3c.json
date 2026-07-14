@@ -1,13 +1,22 @@
 {
   "audiovisual_files": {
     "a86df957-e16b-4ba7-9ab6-1b30ce2b6808": {
-      "label": "GubbaHomestead",
+      "label": "Conspiracy Theories & Health",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://archive.org/download/gubba-download/gubba%20download.mp4",
       "duration": 54,
       "caption_set": [],
       "set_sort": []
+    },
+    "d40e3c86-53ad-43a6-9264-50127abec6ed": {
+      "label": "Conspiracy Theories & Education",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/gubba-2/gubba%202.mp4",
+      "duration": 53,
+      "caption_set": [],
+      "set_sort": [],
+      "file_type": "Video"
     }
   },
   "auto_generate_web_page": true,
@@ -24,10 +33,11 @@
   "citation": "",
   "label": "Theme 1",
   "av_file_order": [
-    "a86df957-e16b-4ba7-9ab6-1b30ce2b6808"
+    "a86df957-e16b-4ba7-9ab6-1b30ce2b6808",
+    "d40e3c86-53ad-43a6-9264-50127abec6ed"
   ],
   "created_at": "2026-07-14T20:01:47.824Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-07-14T20:01:47.824Z",
+  "updated_at": "2026-07-14T20:07:54.019Z",
   "updated_by": "marissabjones"
 }
