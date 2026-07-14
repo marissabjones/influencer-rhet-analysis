@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[Deep description] "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://i.pinimg.com/1200x/58/75/a2/5875a2f1b176b38802220a29f2bc8d41.jpg",
+      "caption": "Disorientation and TikTok Influencers",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Influencer Rhetorical Analysis",
+  "parent": "a93635ee-c01f-43b2-96f4-3d850d74894d",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "influencer-rhetorical-analysis",
+  "created_at": "2026-07-14T19:19:39.183Z",
+  "created_by": "marissabjones",
+  "updated_at": "2026-07-14T19:19:39.183Z",
+  "updated_by": "marissabjones"
+}
