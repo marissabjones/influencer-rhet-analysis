@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-07-14T20:17:41.682Z",
+  "created_by": "marissabjones",
+  "title": "Student 2",
+  "slug": "student-2",
+  "updated_at": "2026-07-14T20:17:41.682Z",
+  "updated_by": "marissabjones",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "1b00449d-82a5-4b0a-82cb-698329b73568"
+  }
+}

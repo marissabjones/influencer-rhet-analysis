@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "24bfe22a-8a88-42a9-bc3a-08a66b2800eb": {
+      "label": "Rage Bait",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://archive.org/download/gubba-download/gubba%20download.mp4",
+      "duration": 54,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Student 2",
+  "av_file_order": [
+    "24bfe22a-8a88-42a9-bc3a-08a66b2800eb"
+  ],
+  "created_at": "2026-07-14T20:17:39.509Z",
+  "created_by": "marissabjones",
+  "updated_at": "2026-07-14T20:17:39.509Z",
+  "updated_by": "marissabjones"
+}
