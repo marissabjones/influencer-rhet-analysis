@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "a28efd37-5435-4736-a9b2-b9fc52f84f3c",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-07-14T20:01:50.392Z",
   "created_by": "marissabjones",
   "title": "Theme 1",
   "slug": "theme-1",
-  "updated_at": "2026-07-14T20:01:50.392Z",
+  "updated_at": "2026-07-14T20:11:09.125Z",
   "updated_by": "marissabjones",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "a28efd37-5435-4736-a9b2-b9fc52f84f3c"
   }
