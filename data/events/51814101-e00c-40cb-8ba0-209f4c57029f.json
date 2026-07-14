@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "978c6e5a-aad3-4d68-930f-a83c1dacdb8d": {
+      "label": "GubbaHomestead",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.instagram.com/reel/DNqy0oXy8j1/?igsh=QkFHN2Z4djl3cA%3D%3D&epik=dj0yJnU9VHFNMWhyQVhlSUJpdlR6dGZuR3c3N011c3N4MnJZZlAmcD0wJm49ZWhBTUhQdFRObThkUjlvZ0FYSlR3ZyZ0PUFBQUFBR3BXZHI4",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "GubbaHomestead is a creator..."
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Homestead Disinformation",
+  "av_file_order": [
+    "978c6e5a-aad3-4d68-930f-a83c1dacdb8d"
+  ],
+  "created_at": "2026-07-14T17:51:12.423Z",
+  "created_by": "marissabjones",
+  "updated_at": "2026-07-14T17:51:12.423Z",
+  "updated_by": "marissabjones"
+}
