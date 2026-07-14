@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "a86df957-e16b-4ba7-9ab6-1b30ce2b6808": {
+      "label": "GubbaHomestead",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://archive.org/download/gubba-download/gubba%20download.mp4",
+      "duration": 54,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Theme 1",
+  "av_file_order": [
+    "a86df957-e16b-4ba7-9ab6-1b30ce2b6808"
+  ],
+  "created_at": "2026-07-14T20:01:47.824Z",
+  "created_by": "marissabjones",
+  "updated_at": "2026-07-14T20:01:47.824Z",
+  "updated_by": "marissabjones"
+}
