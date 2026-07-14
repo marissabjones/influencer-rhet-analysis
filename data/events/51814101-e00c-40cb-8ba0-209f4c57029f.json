@@ -4,19 +4,10 @@
       "label": "GubbaHomestead",
       "is_offline": false,
       "file_type": "Video",
-      "file_url": "https://www.instagram.com/reel/DNqy0oXy8j1/?igsh=QkFHN2Z4djl3cA%3D%3D&epik=dj0yJnU9VHFNMWhyQVhlSUJpdlR6dGZuR3c3N011c3N4MnJZZlAmcD0wJm49ZWhBTUhQdFRObThkUjlvZ0FYSlR3ZyZ0PUFBQUFBR3BXZHI4",
+      "file_url": "https://github.com/marissabjones/Gubba-Homestead.git",
       "duration": 0,
       "caption_set": [],
       "set_sort": []
-    },
-    "65bd0be1-94f2-4e5c-938d-297f147588b1": {
-      "label": "Gretchy",
-      "is_offline": false,
-      "file_url": "",
-      "duration": 0,
-      "caption_set": [],
-      "set_sort": [],
-      "file_type": "Audio"
     }
   },
   "auto_generate_web_page": true,
@@ -33,11 +24,10 @@
   "citation": "By Marissa Jones",
   "label": "Homestead Disinformation",
   "av_file_order": [
-    "978c6e5a-aad3-4d68-930f-a83c1dacdb8d",
-    "65bd0be1-94f2-4e5c-938d-297f147588b1"
+    "978c6e5a-aad3-4d68-930f-a83c1dacdb8d"
   ],
   "created_at": "2026-07-14T17:51:12.423Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-07-14T18:52:06.179Z",
+  "updated_at": "2026-07-14T19:07:42.048Z",
   "updated_by": "marissabjones"
 }
