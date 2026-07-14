@@ -1,0 +1,53 @@
+{
+  "audiovisual_files": {
+    "74a41f7d-ba48-4ab6-afbc-a6925b299f5b": {
+      "label": "",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "81443375-5f53-4ea9-a3b3-1a7ee84729f1": {
+      "label": "",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "611dee03-502b-473c-a93c-fa9fbb845d93": {
+      "label": "",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "...",
+  "av_file_order": [
+    "74a41f7d-ba48-4ab6-afbc-a6925b299f5b",
+    "81443375-5f53-4ea9-a3b3-1a7ee84729f1",
+    "611dee03-502b-473c-a93c-fa9fbb845d93"
+  ],
+  "created_at": "2026-07-14T18:32:01.506Z",
+  "created_by": "marissabjones",
+  "updated_at": "2026-07-14T18:32:01.506Z",
+  "updated_by": "marissabjones"
+}
