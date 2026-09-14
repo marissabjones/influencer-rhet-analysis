@@ -20,6 +20,31 @@
         }
       ],
       "uuid": "8c6e7b29-e29b-437e-b4f0-108af5b7f3ad"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[copy/paste information]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Logos"
+        }
+      ],
+      "uuid": "40b6570e-99a0-4173-9204-d8e4860449ca"
     }
   ],
   "set": "Default",
